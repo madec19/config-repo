@@ -3,6 +3,6 @@ server:
   
 spring:
   data.mongodb:
-    host: localhost
+    host: localhos
     port: 40000
     database: mydb
